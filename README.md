@@ -8,12 +8,12 @@ A Salesforce-based Garage Management System for handling customer, appointment, 
 
 ### 👥 Team Details
 
-* **Team ID:** NM2025TMID07171
+* **Team ID:**NM2025TMID02807
 * **Team Size:** 4
-* **Team Leader:** Tamil Mani S
-* **Team Member:** Sudharshan S
-* **Team Member:** Nilavarasan S
-* **Team Member:** Rageesh Kumar M
+* **Team Leader:** gokul M
+* **Team Member:** vengadesh V 
+* **Team Member:** anandh R
+* **Team Member:** sujith L 
 
 ---
 
